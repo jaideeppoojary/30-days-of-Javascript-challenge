@@ -1,6 +1,5 @@
 
 const { getPadString } = require("./utils");
-// reference for suggestion https://streaming-cdnv6.learnyst.com/v6/schools/171024/articlelesson/198890/3196994/un5v19251a60766d2f/ndrm/sth/index.html
 // Day 1: Variables and Data Types
 
 // Tasks/Activities:
